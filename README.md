@@ -18,12 +18,6 @@ https://dotnet.microsoft.com/ja-jp/download/dotnet/9.0
 
 search and install `C# Dev Kit`
 
-#### 初回だけ
-
-```bash
-dotnet new web -o project-name
-```
-
 ### 実行
 
 監視モードでサーバーを起動
